@@ -2,9 +2,10 @@
 
 Built for the **Digital Heroes Qualification Task** (Role 05 — Web Development).
 
-## 🔗 Live Application & Repository
+## 🔗 Submission Links
 - **Live Deployed Site:** [https://northpeakdev.vercel.app](https://northpeakdev.vercel.app)
 - **GitHub Repository:** [https://github.com/antcybersec/assignment.git](https://github.com/antcybersec/assignment.git)
+- **Loom Walkthrough Video:** [https://www.loom.com/share/c8e1e3c2edc14532800ccdee6aeb7563](https://www.loom.com/share/c8e1e3c2edc14532800ccdee6aeb7563)
 
 ---
 
