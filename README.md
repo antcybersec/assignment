@@ -2,6 +2,12 @@
 
 Built for the **Digital Heroes Qualification Task** (Role 05 — Web Development).
 
+## 🔗 Live Application & Repository
+- **Live Deployed Site:** [https://northpeakdev.vercel.app](https://northpeakdev.vercel.app)
+- **GitHub Repository:** [https://github.com/antcybersec/assignment.git](https://github.com/antcybersec/assignment.git)
+
+---
+
 ## 🚀 Overview
 NorthPeak Digital is a responsive agency website engineered with React, Tailwind CSS, and TypeScript.
 
